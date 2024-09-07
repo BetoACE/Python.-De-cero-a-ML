@@ -21,7 +21,7 @@ Aquí en este git encontrarás **todo el material necesario para el curso**. Te 
 
 
 * **
-# 🚨:warning: Anuncios :warning:🚨
+# 🚨 Anuncios 🚨
 
 Formación complementaria 2025-1.
 
