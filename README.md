@@ -21,7 +21,7 @@ Aquí en este git encontrarás **todo el material necesario para el curso**. Te 
 
 
 * **
-# 🚨🚨🚨 Anuncios 🚨🚨🚨
+# 🚨:warning: Anuncios :warning:🚨
 
 Formación complementaria 2025-1.
 
@@ -67,7 +67,6 @@ Algunos artículos adicionales sobre econometría, analítica y temas afines:
 [The Curse of Dimensionality](https://typefully.com/svpino/the-curse-of-dimensionality-P9lhOqD) | Artículo breve que desmuestra que no siempre es mejor añadir variables independientes, además con ello viene un costo enorme|
 [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9)| Algunas aplicaciones de la F estadística en Machine Learning|
 [XGBoost Algorithm: Long May She Reign!](https://medium.com/towards-data-science/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d) | La regresión lineal es válida, pero ¿eficiente?|
-[In 1980, two feuding professors bet on the fate of humanity. Who won?](https://aeon.co/videos/in-1980-two-feuding-professors-bet-on-the-fate-of-humanity-who-won?utm_medium=Social&utm_source=Twitter#Echobox=1646262346-1) | Economistas vs. Biologos vs. la realidad vs. los modelos fallan vs. ... | 
 [Linear Regression Models and Influential Points](https://towardsdatascience.com/linear-regression-models-and-influential-points-4ee844adac6d)  | Outliers ≠ Influential Points...algo que no se enseña en la facultad pero es lo más común en datasets |
 [Stats Gist List: An Irreverent Statistician’s Guide to Jargon](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d) | Entretenido por si quieren relacionar temas de A.I. con lo que se ve en la primera parte de nuestro curso |
 [Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Machine%20Learning%20Algorithms%20Explained.jpg) | Infografía útil para regresión lineal simple. | 
@@ -75,16 +74,12 @@ Algunos artículos adicionales sobre econometría, analítica y temas afines:
 [Ordinary People Don’t Think Like Economists. It’s a Problem.](https://www.nytimes.com/2022/04/06/opinion/economics-public-opinion.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDm4ciOMNAo6B_EGKaKFkYdw23j-AAcdcOrsuT7l11u5ZPktrDQm0p5_O0LI0HxIIk6PhFGUnw8CKGrki7T7hamT-dbxxzeXk50vDPDLoXbjY030qOAdu8ZF6dQ6h3SBex6jGQuVzycA-ial6fu1yTT0BZSKLvPj6WV4paJjdMEaqukRhUPpZWDrTgdea97kAFQ1XAlvBR398in0uvJIeYJhEefaicGNzPZb2kr4TCWd3LYu2BJZXR4bclrlitbalugWLqKWI0XfxJuItW7wA5Zvt&smid=url-share) | |
 [Machine Learning and Causal Inference for Policy Evaluation ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.5229&rep=rep1&type=pdf) | |
 [Why you should always visualize your data](https://youtu.be/WLQ4GLqMVpw)| | 
-[p-hacker: Train your p-hacking skills!](http://shinyapps.org/apps/p-hacker/) | |
 [Looking at the distribution: histograms and kernel density plots](https://modelinginbiology.github.io/looking-at-the-distribution) | |
 |[Assumptions of Linear Regression](https://typefully.com/capeandcode/6rLloV5) | 
 |[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf)|
 | [Is n = 30 really enough? A popular inductive fallacy among data analysts](https://towardsdatascience.com/is-n-30-really-enough-a-popular-inductive-fallacy-among-data-analysts-95661669dd98) | 
 | [How Data Leakage affects model performance claims](https://towardsdatascience.com/how-data-leakage-affects-model-performance-claims-841eb01276bb) | Una razón más intuitiva que matemática de porqué no es bueno tener variables independientes *proxy* a la variable dependiente, o que estén correlacionadas y por lo tanto la regresión muestre signos de multicolinealidad. |
-| [Knowledge structures](https://www.francismiller.com/knowledge-structures-an-introduction-to-the-concept/) | Entendimiento de los diferentes problemas y cómo abordarlos |
-| [10 Reasons Your Beliefs Are Probably Bullshit](https://gurwinder.substack.com/p/10-reasons-your-beliefs-are-probably?utm_source=post-email-title&publication_id=589242&post_id=99216576&isFreemail=true&utm_medium=email) | Sesgos cognitivos y cómo resolverlos
-| [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/) | "Set of notes for Government 2002: Quantitative Social Science Methods II at Harvard University taught by Matthew Blackwell."
-
+| [Knowledge structures](https://www.francismiller.com/knowledge-structures-an-introduction-to-the-concept/) | Entendimiento de los 
 * **
 
 
