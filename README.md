@@ -1,6 +1,6 @@
 # Facultad de Economía - UNAM
-## Python.-De-cero-a-ML
-Python se ha consolidado como uno de los lenguajes de programación más populares y útiles en la actualidad, particularmente en el ámbito de la economía, donde su capacidad para manejar y visualizar grandes volúmenes de datos, así como realizar análisis complejos y pronósticos lo convierte en una herramienta útil e indispensable. Este programa de estudio está diseñado específicamente para profesionistas que desean adquirir habilidades prácticas en Python, desde lo más básico hasta una introducción a técnicas avanzadas de análisis y modelación.
+
+ :bar_chart: Python se ha consolidado como uno de los lenguajes de programación más populares y útiles en la actualidad, particularmente en el ámbito de la economía, donde su capacidad para manejar y visualizar grandes volúmenes de datos, así como realizar análisis complejos y pronósticos lo convierte en una herramienta útil e indispensable. Este programa de estudio está diseñado específicamente para profesionistas que desean adquirir habilidades prácticas en Python, desde lo más básico hasta una introducción a técnicas avanzadas de análisis y modelación.
 
 
 
