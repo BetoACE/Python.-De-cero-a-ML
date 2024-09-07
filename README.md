@@ -4,8 +4,9 @@
 
 
 
-> *“De vez en cuando, una nueva tecnología, un antiguo problema y una gran idea se convierten en una innovación”. Dean Kamen. Creador del Segway y el iBOT.*  
-> -Benjamin Brewster
+> *“De vez en cuando, una nueva tecnología, un antiguo problema y una gran idea se convierten en una innovación”.
+> > -Dean Kamen.*  
+
 
 * **
 # ¡Bienvenidos al curso! 👋
