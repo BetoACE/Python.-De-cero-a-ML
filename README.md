@@ -35,7 +35,7 @@ Buen día, revisen el correo de EDUSIGN para pasar lista con el código QR.
 
 * **
 
-# 👨‍🏫 Unidades
+# 👨‍🏫 Módulos y Recursos
 
 | Unidad | Slides | Código | Recursos | Data |
 |--------|--------|--------|----------------------|----|
