@@ -32,7 +32,7 @@ Buen día, revisen el correo de EDUSIGN para pasar lista con el código QR.
 
 
 <!---
--->
+
 
 * **
 
@@ -45,10 +45,10 @@ Buen día, revisen el correo de EDUSIGN para pasar lista con el código QR.
 | Forma Funcional  | [Workshop 2](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop2%20Functional%20Form.pdf) · [LaTeX](https://github.com/milioe/Econometrics/blob/main/files/Slides/Intro%20a%20LaTeX.pdf) | | [`Paper: Selecting Functional Form in Production Function Analysis`](https://github.com/milioe/Econometrics/blob/main/files/Papers/Selecting%20Functional%20Form%20in%20Production%20Function%20Analysi.pdf) · [`Assignment 1`](https://github.com/milioe/Econometrics/blob/main/files/Otros/Assignment_FF.pdf) · [`Ejemplo LaTeX`](https://es.overleaf.com/read/gkshcxvxtzqm) | [`Mus08`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/mus08psidextract.dta) · [`Auto`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/auto.dta) |
 | Multicolinealidad | [Workshop 3](https://github.com/milioe/Econometrics/blob/main/files/Slides/Workshop3%20BLUEMulticollinearity.pdf) | | [`Matriz Portugal`](https://github.com/milioe/Econometrics/blob/main/files/Otros/multi.md) | [`Nomulti`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/nomulti.dta) · [`Presion`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/presion.dta) · [`Elemapi`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/elemapi2.dta) |
 
+-->
 
 
-
-# 🤓 Fuentes adicionales
+# 🤓 Herramientas de introducción
 
 Para introducción **Machine Learning** en un caso de clasificación binaria. Les sugerimos revisar los siguientes videos para tener un pre de conocimiento:
 * [Clasificación con Árboles de Decisión ¡EN 15 MINUTOS!](https://youtu.be/kqaLlte6P6o)
