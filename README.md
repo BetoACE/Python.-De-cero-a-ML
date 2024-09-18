@@ -25,7 +25,7 @@ Aquí en este git encontrarás **todo el material necesario para el curso**. Te 
 
 Formación complementaria 2025-1.
 
-Buen día, revisen el correo de EDUSIGN para pasar lista con el código QR.
+Hola, ya está disponible la presentación del módulo 1. Nos vemos mañana.
 
 
 
