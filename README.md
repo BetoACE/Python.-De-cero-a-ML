@@ -41,7 +41,7 @@ Hola, ya está disponible la presentación del módulo 1. Nos vemos mañana.
 | Unidad | Slides | Código | Recursos | Data |
 |--------|--------|--------|----------------------|----|
 
-| Programa del curso | [Syllabus Python](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Syllabus.%20Python%20de%20cero%20a%20ML.pdf) |
+| Programa del curso | [Syllabus Python](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Syllabus.%20Python%20de%20cero%20a%20ML.pdf) | ·
 | Módulo 1 | [Introducción e historia](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%201.%20Introducci%C3%B3n%20a%20Python.pdf ) | | [`Syllabus`](https://drive.google.com/file/d/1AhpxTrBeB9X5f3uYQVfenPyDqvfeiQhM/view?usp=sharing) · 
 
 [`Cuestionario general`]() · [`Whimsical del curso`](https://whimsical.com/econometrics-i-U3gpSBnYKG1UqAS6Fbi7nB)|  | 
