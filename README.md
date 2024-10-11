@@ -65,15 +65,9 @@ Algunos artículos adicionales sobre econometría, analítica y temas afines:
 | Link | Descripción |
 --- | --- | 
 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index2.html) | Repaso de temas de álgebra lineal elemental de forma interactiva 
-[Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?fbclid=IwAR2TfPVUSPfQ6NprLyOz_jBaUKT2El-p7xAv0bZswD_sbGnSS5ewT7Z3YoY&r=c1qut) | El arte de la heurística pudiera ser el paso número cero en cualquier modelación
-[The Datasaurus Dozen](https://blog.revolutionanalytics.com/2017/05/the-datasaurus-dozen.html) | La importancia de graficar|
 [How to Use Occam’s Razor Without Getting Cut](https://fs.blog/occams-razor/) | |
 [The Curse of Dimensionality](https://typefully.com/svpino/the-curse-of-dimensionality-P9lhOqD) | Artículo breve que desmuestra que no siempre es mejor añadir variables independientes, además con ello viene un costo enorme|
 [6 Types of “Feature Importance” Any Data Scientist Should Know](https://towardsdatascience.com/6-types-of-feature-importance-any-data-scientist-should-master-1bfd566f21c9)| Algunas aplicaciones de la F estadística en Machine Learning|
-[XGBoost Algorithm: Long May She Reign!](https://medium.com/towards-data-science/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d) | La regresión lineal es válida, pero ¿eficiente?|
-[Linear Regression Models and Influential Points](https://towardsdatascience.com/linear-regression-models-and-influential-points-4ee844adac6d)  | Outliers ≠ Influential Points...algo que no se enseña en la facultad pero es lo más común en datasets |
-[Stats Gist List: An Irreverent Statistician’s Guide to Jargon](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d) | Entretenido por si quieren relacionar temas de A.I. con lo que se ve en la primera parte de nuestro curso |
-[Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Machine%20Learning%20Algorithms%20Explained.jpg) | Infografía útil para regresión lineal simple. | 
 [Multiple Linear Regression](https://raw.githubusercontent.com/wiki-360/resources/main/Linear%20Regression%20Machine%20Learning%20Algorithm%20Explained.jpg) |  Infografía que resume propiedades de regresión lineal múltiple.|
 [Ordinary People Don’t Think Like Economists. It’s a Problem.](https://www.nytimes.com/2022/04/06/opinion/economics-public-opinion.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDm4ciOMNAo6B_EGKaKFkYdw23j-AAcdcOrsuT7l11u5ZPktrDQm0p5_O0LI0HxIIk6PhFGUnw8CKGrki7T7hamT-dbxxzeXk50vDPDLoXbjY030qOAdu8ZF6dQ6h3SBex6jGQuVzycA-ial6fu1yTT0BZSKLvPj6WV4paJjdMEaqukRhUPpZWDrTgdea97kAFQ1XAlvBR398in0uvJIeYJhEefaicGNzPZb2kr4TCWd3LYu2BJZXR4bclrlitbalugWLqKWI0XfxJuItW7wA5Zvt&smid=url-share) | |
 [Machine Learning and Causal Inference for Policy Evaluation ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.5229&rep=rep1&type=pdf) | |
