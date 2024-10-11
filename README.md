@@ -25,9 +25,9 @@ Aquí en este git encontrarás **todo el material necesario para el curso**. Te 
 
 Formación complementaria 2025-1.
 
-Hola, ya están los materiales hasta el módulo 3.
+Hola, ya están los materiales hasta el módulo 3 (10 de octubre)
 
-Subiré en estos días el google colab que hemos estado trabajando.
+También ya tienen disponible el google colab que hemos estado trabajando.
 
 
 
