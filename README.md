@@ -25,9 +25,9 @@ Aquí en este git encontrarás **todo el material necesario para el curso**. Te 
 
 Formación complementaria 2025-1.
 
-Hola, ya está disponible la presentación del módulo 1. Nos vemos mañana.
+Hola, ya están los materiales hasta el módulo 3.
 
-
+Subiré en estos días el google colab que hemos estado trabajando.
 
 
 
@@ -78,6 +78,7 @@ Algunos artículos adicionales sobre econometría, analítica y temas afines:
 [Ordinary People Don’t Think Like Economists. It’s a Problem.](https://www.nytimes.com/2022/04/06/opinion/economics-public-opinion.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDm4ciOMNAo6B_EGKaKFkYdw23j-AAcdcOrsuT7l11u5ZPktrDQm0p5_O0LI0HxIIk6PhFGUnw8CKGrki7T7hamT-dbxxzeXk50vDPDLoXbjY030qOAdu8ZF6dQ6h3SBex6jGQuVzycA-ial6fu1yTT0BZSKLvPj6WV4paJjdMEaqukRhUPpZWDrTgdea97kAFQ1XAlvBR398in0uvJIeYJhEefaicGNzPZb2kr4TCWd3LYu2BJZXR4bclrlitbalugWLqKWI0XfxJuItW7wA5Zvt&smid=url-share) | |
 [Machine Learning and Causal Inference for Policy Evaluation ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.5229&rep=rep1&type=pdf) | |
 [Why you should always visualize your data](https://youtu.be/WLQ4GLqMVpw)| | 
+<!---
 [Looking at the distribution: histograms and kernel density plots](https://modelinginbiology.github.io/looking-at-the-distribution) | |
 |[Assumptions of Linear Regression](https://typefully.com/capeandcode/6rLloV5) | 
 |[Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://link.springer.com/content/pdf/10.1007/s10654-016-0149-3.pdf)|
@@ -85,7 +86,7 @@ Algunos artículos adicionales sobre econometría, analítica y temas afines:
 | [How Data Leakage affects model performance claims](https://towardsdatascience.com/how-data-leakage-affects-model-performance-claims-841eb01276bb) | Una razón más intuitiva que matemática de porqué no es bueno tener variables independientes *proxy* a la variable dependiente, o que estén correlacionadas y por lo tanto la regresión muestre signos de multicolinealidad. |
 | [Knowledge structures](https://www.francismiller.com/knowledge-structures-an-introduction-to-the-concept/) | Entendimiento de los 
 * **
-
+--->
 
 # 🤯 Recomendaciones de libros
 Link | Comentarios |
@@ -96,11 +97,12 @@ Link | Comentarios |
 [**Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are**](https://www.amazon.com.mx/Everybody-Lies-Internet-about-Really/dp/0062390856/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A6UCBR56762F&keywords=everybody+lies&qid=1660584990&sprefix=everybody+lie%2Caps%2C137&sr=8-1) - *Seth Stephens-Davidowitz*| | 
 [**Outliers: The story of success**](https://www.amazon.com.mx/Fueras-serie-personas-tienen-%C3%A9xito/dp/6073141866/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1661724784&sr=8-2) - *Malcolm Gladwell* | |
 [**Prediction Machines: The Simple Economics of Artificial Intelligence**](https://www.amazon.com.mx/gp/product/1633695670/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) - *Ajay Agrawal* |  | 
+<!----
 [**Using Python for Introductory Econometrics**](https://www.amazon.com.mx/Python-Introductory-Econometrics-Daniel-Brunner/dp/B08924H17Y/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3E2V51ZKZBR37&keywords=using+python+for+introductory+econometrics&qid=1672333668&sprefix=using+python+for+introductory+econometric%2Caps%2C120&sr=8-1) - *Daniel Brunner* | |
 [**Econometrics with Machine Learning**](https://www.amazon.com.mx/Econometrics-Machine-Learning-2022-Paperback/dp/B0BJ31JTZR/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=YJXW3D3HKXXQ&keywords=machine+learning+for+econometrics&qid=1672333695&sprefix=machine+learning+for+econometric%2Caps%2C118&sr=8-1) - *Advan* ||
 [**Power and Prediction: The Disruptive Economics of Artificial Intelligence**](https://www.amazon.com.mx/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192/ref=sr_1_3?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3HX2EWWEK6UFP&keywords=prediction+machines&qid=1672333743&sprefix=prediction+machine%2Caps%2C116&sr=8-3) - *Ajay Agrawal* ||
 [**The Book of Why: The New Science of Cause and Effect**](https://www.amazon.com.mx/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_2?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37MAO5V3JKZ83&keywords=the+book+of+why&qid=1672333838&s=books&sprefix=the+book+of+wh%2Cstripbooks%2C118&sr=1-2) - *Judea Pearl* ||
 [**Prediction Revisited: The Importance of Observation**](https://www.predictionrevisited.com/the-book) - *Megan Czasonis* || 
-
+--->
 
 
