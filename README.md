@@ -23,11 +23,11 @@ Aquí en este git encontrarás **todo el material necesario para el curso**. Te 
 * **
 # 🚨 Anuncios 🚨
 
-Formación complementaria 2025-1.
+Formación complementaria 2025-2.
 
-Hola, ya están los materiales hasta el módulo 3 (10 de octubre)
+Hola, ¡bienvenidos!
 
-También ya tienen disponible el google colab que hemos estado trabajando.
+Este será nuestro repositorio de código, presentaciones y materiales.  Las presentaciones se suben una vez que terminamos cada módulo.
 
 
 
