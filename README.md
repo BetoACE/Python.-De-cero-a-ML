@@ -36,17 +36,15 @@ Este será nuestro repositorio de código, presentaciones y materiales.  Las pre
 
 * **
 
-# 👨‍🏫 Módulos y Recursos
-| Unidad             | Material                                                                                                                                           | Código                                                                                                      | Recursos                                                                                                                         | Data |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------|
-| Programa del curso | [Syllabus Python](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Syllabus.%20Python%20de%20cero%20a%20ML.pdf)                         |                                                                                                                                                     |                                                                                                                             |      |
+# 👨‍🏫 Módulos y Recursos del Curso  
 
+| **Unidad**         | **Material**                                                                                              | **Código** | **Recursos**                                                                 | **Data** |
+|--------------------|----------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------|---------|
+| **Programa del curso** | [Syllabus Python](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Syllabus.%20Python%20de%20cero%20a%20ML.pdf) |  |  |  |
+| **Módulo 1**      | [Introducción e historia](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%201.%20Introducci%C3%B3n%20a%20Python.pdf) |  | [Notebook1](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Primeros_pasos_ML_UNAM.ipynb) |  |
+| **Módulo 2**      | [Tipos de variables y operadores](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%202.%20Introducci%C3%B3n%20a%20Python.pdf) |  | [Notebook2](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Primeros_pasos_ML_UNAM.ipynb) |  |
+| **Módulo 3**      | [Ciclos, bucles y contenedores](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%203.%20Introducci%C3%B3n%20a%20Python.pdf) |  | [Notebook3](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Primeros_pasos_ML_UNAM.ipynb) |  |
 
-| Módulo 1           | [Introducción e historia](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%201.%20Introducci%C3%B3n%20a%20Python.pdf)       |                                                                                                                                                     | [Notebook1](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Primeros_pasos_ML_UNAM.ipynb)                                 |      |
-| Módulo 2           | [Tipos de variables y operadores](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%202.%20Introducci%C3%B3n%20a%20Python.pdf) |                                                                                                                                                     | [Notebook2](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Primeros_pasos_ML_UNAM.ipynb)                                 |      |
-| Módulo 3           | [Ciclos, bucles y contenedores](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%203.%20Introducci%C3%B3n%20a%20Python.pdf)  |                                                                                                                                                     | [Notebook3](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Primeros_pasos_ML_UNAM.ipynb)                                 |      |
-<!---  
--->
 
 <!---   
 
