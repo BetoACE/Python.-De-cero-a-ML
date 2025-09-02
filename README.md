@@ -23,13 +23,19 @@ Aquí en este git encontrarás **todo el material necesario para el curso**. Te 
 * **
 # 🚨 Anuncios 🚨
 
-Formación complementaria 2025-2.
+Formación complementaria 2026-I.
 
 Hola, ¡bienvenidos!
 
 Este será nuestro repositorio de código, presentaciones y materiales.  Las presentaciones se suben una vez que terminamos cada módulo.
 
+AVISO SEMESTRE 2026-I:
 
+A manera de no dejar a nadie atrás, las sesiones quedarían de la siguiente manera:
+
+--Lunes 1:10 a 2:15 pm
+
+--Miércoles 1:30 a 2:30 pm
 
 
 
