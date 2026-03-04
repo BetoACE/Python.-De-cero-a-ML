@@ -23,19 +23,19 @@ Aquí en este git encontrarás **todo el material necesario para el curso**. Te 
 * **
 # 🚨 Anuncios 🚨
 
-Formación complementaria 2026-I.
+Formación complementaria 2027-I.
 
 Hola, ¡bienvenidos!
 
 Este será nuestro repositorio de código, presentaciones y materiales.  Las presentaciones se suben una vez que terminamos cada módulo.
 
-AVISO SEMESTRE 2026-I:
+AVISO SEMESTRE 2027-I:
 
 A manera de no dejar a nadie atrás, las sesiones quedarían de la siguiente manera:
 
---Lunes 1:10 a 2:15 pm
+--Martes 5:15 a 6:30 pm
 
---Miércoles 1:30 a 2:30 pm
+--Jueves 5:30 a 6:30 pm
 
 
 
@@ -47,11 +47,11 @@ A manera de no dejar a nadie atrás, las sesiones quedarían de la siguiente man
 | **Unidad**         | **Material**                                                                                              | **Código** | **Recursos**                                                                 | **Data** |
 |--------------------|----------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------|---------|
 | **Programa del curso** | [Syllabus Python](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Syllabus.%20Python%20de%20cero%20a%20ML.pdf) |  |  |  |
-| **Módulo 1**      | [Introducción e historia](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%201.%20Introducci%C3%B3n%20a%20Python.pdf) |  | [Notebook1](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Primeros_pasos_ML_UNAM.ipynb) |  |
+<!---| **Módulo 1**      | [Introducción e historia](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%201.%20Introducci%C3%B3n%20a%20Python.pdf) |  | [Notebook1](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Primeros_pasos_ML_UNAM.ipynb) |  |
 | **Módulo 2**      | [Tipos de variables y operadores](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%202.%20Introducci%C3%B3n%20a%20Python.pdf) |  | [Notebook2](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Primeros_pasos_ML_UNAM.ipynb) |  |
 | **Módulo 3**      | [Ciclos, bucles y contenedores](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/M%C3%B3dulo%203.%20Introducci%C3%B3n%20a%20Python.pdf) |  | [Notebook3](https://github.com/BetoACE/Python.-De-cero-a-ML/blob/main/Primeros_pasos_ML_UNAM.ipynb) |  |
 
-
+-->
 <!---   
 
 [`Intro a LaTeX`]() · [`Intro a Python`](https://colab.research.google.com/drive/1b57SV3m-gevwQ0xFFhyvgqRUuHDKawZY?usp=sharing) · [`Regresión lineal artesanal`](https://colab.research.google.com/drive/1FTRCVah2VgV0z2ypdm7UbWPuZjRomoYx?usp=sharing) | [`Paper: How to read a paper`](https://github.com/milioe/Econometrics/blob/main/files/Papers/HowtoReadPaper.pdf) · [`Paper: Regresión lineal y probeza`](https://github.com/milioe/Econometrics/blob/main/files/Papers/Regresio%CC%81n%20lineal%20y%20pobreza.pdf) · [`Brilliant`]() · [`Viendo la teoría`](https://seeing-theory.brown.edu/es.html#firstPage) · [`Setosa.io`](https://setosa.io/ev/) · [`Spurious Correlations`](https://www.tylervigen.com/spurious-correlations) · [`Kaggle`](https://www.kaggle.com/) · [`Ejemplo de reporte`](https://github.com/milioe/Econometrics/blob/main/files/Papers/Econo1.%20Formato%20de%20reporte%20individual.pdf) · [`p.value in excel`](https://docs.google.com/spreadsheets/d/16lGRAiaZJhh1K6dqN19_urPETs8sEHVd/edit?usp=sharing&ouid=109293680949375961319&rtpof=true&sd=true) | [`Ceosal`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/CEOSAL2.DTA) · [`Sleep75`](https://econometricsunam.blob.core.windows.net/20251/STATADATASETS/SLEEP75.DTA)
