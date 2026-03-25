@@ -35,7 +35,7 @@ A manera de no dejar a nadie atrás, las sesiones quedarían de la siguiente man
 
 --Martes 5:15 a 6:30 pm
 
---Jueves 5:30 a 6:30 pm
+--Jueves 5:40 a 6:30 pm
 
 
 
